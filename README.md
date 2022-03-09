@@ -67,3 +67,11 @@ I love this project because it introduced me to the true **laravel community** a
 👉 Created Docker image and installer for Eco7.
 
 👉 Handled the complexity of running nginx, php, queues and many other on light alpine.
+
+---
+
+## Electron.js
+
+One of the requirements in [Eco7](#eco7) was to create some sort of a tool to import huge nested folder structure including files. It was a great opportunity for me to learn and apply so I created this tool using Electron 👇
+
+![https://i.imgur.com/qJWxqHh.png](https://i.imgur.com/qJWxqHh.png)
